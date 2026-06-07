@@ -1,0 +1,5 @@
+risk_tier,total_loans,default_rate_pct,avg_loan_amount,avg_interest_rate,avg_annual_income,avg_dti,avg_fico
+Critical Risk,669,37.82,16382.0,16.81,69692.0,31.27,671.0
+High Risk,28908,31.65,15151.0,14.94,70760.0,24.22,678.0
+Medium Risk,47434,17.13,14007.0,11.16,78724.0,17.22,693.0
+Low Risk,11549,6.69,14140.0,7.58,91405.0,12.55,742.0

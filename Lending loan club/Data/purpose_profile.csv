@@ -1,0 +1,13 @@
+purpose,total_loans,default_rate_pct,avg_interest_rate
+small_business,791,31.1,15.66
+house,284,27.82,16.0
+medical,1043,22.82,13.26
+moving,535,22.8,14.57
+debt_consolidation,50058,22.49,12.41
+renewable_energy,54,20.37,15.35
+major_purchase,1779,19.9,11.81
+other,4922,19.57,13.38
+home_improvement,5627,18.59,11.69
+vacation,487,17.66,12.72
+credit_card,22190,17.0,10.44
+car,790,15.57,11.4
